@@ -1,0 +1,9 @@
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\bin\Debug\WFACanCarRoad.exe.config
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\bin\Debug\WFACanCarRoad.exe
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\bin\Debug\WFACanCarRoad.pdb
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.csprojResolveAssemblyReference.cache
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.Properties.Resources.resources
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.csproj.GenerateResource.Cache
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.exe
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.pdb
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\WFACanCarRoad\obj\Debug\WFACanCarRoad.FrmCanCarRoad.resources
