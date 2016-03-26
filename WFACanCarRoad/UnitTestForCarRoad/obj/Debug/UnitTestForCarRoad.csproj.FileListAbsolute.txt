@@ -1,0 +1,9 @@
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\UnitTestForCarRoad.dll
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\UnitTestForCarRoad.pdb
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\WFACanCarRoad.exe
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\WFACanCarRoad.pdb
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\obj\Debug\UnitTestForCarRoad.csprojResolveAssemblyReference.cache
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\obj\Debug\UnitTestForCarRoad.dll
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\obj\Debug\UnitTestForCarRoad.pdb
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\UnitTestForCarRoad.dll.CodeAnalysisLog.xml
+C:\Informacion\henry\GitHub\CanCarRoad\WFACanCarRoad\UnitTestForCarRoad\bin\Debug\UnitTestForCarRoad.dll.lastcodeanalysissucceeded

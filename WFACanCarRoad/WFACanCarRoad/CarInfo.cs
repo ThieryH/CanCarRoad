@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WFACanCarRoad
 {
-    class CarInfo
+    public class CarInfo
     {
         string strPlate; 
         string strDate;
